@@ -54,7 +54,7 @@ export default function LandingPage() {
       description="Port Elizabeth's favorite spot for artisan roasts and cozy mornings. Visit us at Lower Valley Road."
       buttons={[
         {
-          text: "See Menu",          href: "#menu"},
+          text: "View Daily Menu",          href: "#menu"},
         {
           text: "Get Directions",          href: "#contact"},
       ]}
